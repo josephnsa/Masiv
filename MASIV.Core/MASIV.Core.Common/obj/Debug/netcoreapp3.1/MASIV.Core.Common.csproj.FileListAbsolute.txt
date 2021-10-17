@@ -1,0 +1,9 @@
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\bin\Debug\netcoreapp3.1\MASIV.Core.Common.deps.json
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\bin\Debug\netcoreapp3.1\MASIV.Core.Common.dll
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\bin\Debug\netcoreapp3.1\MASIV.Core.Common.pdb
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.csprojAssemblyReference.cache
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.AssemblyInfoInputs.cache
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.AssemblyInfo.cs
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.dll
+C:\Users\salaz\Documents\Joseph\Masiv\MASIV.Core\MASIV.Core.Common\obj\Debug\netcoreapp3.1\MASIV.Core.Common.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>3038e803-3904-4886-b938-7d3f85b30cb5</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\MASIV.Core\MASIV.Core.Common.Application\MASIV.Core.Common.Application.csproj" />
+    <ProjectReference Include="..\..\..\MASIV.Core\MASIV.Core.Common\MASIV.Core.Common.csproj" />
+    <ProjectReference Include="..\..\..\MASIV.Infrastructure\MASIV.Repository.Common\MASIV.Repository.Common.csproj" />
+  </ItemGroup>
+
+
+</Project>

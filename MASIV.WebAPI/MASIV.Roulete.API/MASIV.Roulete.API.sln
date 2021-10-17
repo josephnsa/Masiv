@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASIV.Roulete.API", "MASIV.Roulete.API\MASIV.Roulete.API.csproj", "{588BD88B-41B5-4A2C-B61C-091BCBEF29CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASIV.Core.Common", "..\..\MASIV.Core\MASIV.Core.Common\MASIV.Core.Common.csproj", "{F71D449F-313C-40B1-91EE-28C523A43F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASIV.Core.Common.Application", "..\..\MASIV.Core\MASIV.Core.Common.Application\MASIV.Core.Common.Application.csproj", "{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASIV.Repository.Common", "..\..\MASIV.Infrastructure\MASIV.Repository.Common\MASIV.Repository.Common.csproj", "{8D3E876F-E16C-415B-9A79-1AC92971D6FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Interfaces Services", "1.Interfaces Services", "{72796DFF-73EA-487E-9B1F-232433E9907F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application Core", "2.Application Core", "{FD47DA45-8685-434C-AEB0-2175AF106438}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Infrastructure", "3.Infrastructure", "{81BD3B13-0C5E-4113-B4EE-1283909C55F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588BD88B-41B5-4A2C-B61C-091BCBEF29CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588BD88B-41B5-4A2C-B61C-091BCBEF29CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588BD88B-41B5-4A2C-B61C-091BCBEF29CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588BD88B-41B5-4A2C-B61C-091BCBEF29CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71D449F-313C-40B1-91EE-28C523A43F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71D449F-313C-40B1-91EE-28C523A43F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71D449F-313C-40B1-91EE-28C523A43F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71D449F-313C-40B1-91EE-28C523A43F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3E876F-E16C-415B-9A79-1AC92971D6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3E876F-E16C-415B-9A79-1AC92971D6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3E876F-E16C-415B-9A79-1AC92971D6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3E876F-E16C-415B-9A79-1AC92971D6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{588BD88B-41B5-4A2C-B61C-091BCBEF29CA} = {72796DFF-73EA-487E-9B1F-232433E9907F}
+		{F71D449F-313C-40B1-91EE-28C523A43F32} = {FD47DA45-8685-434C-AEB0-2175AF106438}
+		{77DA78C3-CA07-44C9-9FD3-C1BD20D7515A} = {FD47DA45-8685-434C-AEB0-2175AF106438}
+		{8D3E876F-E16C-415B-9A79-1AC92971D6FC} = {81BD3B13-0C5E-4113-B4EE-1283909C55F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28CAB2B-C465-4A29-B1CF-CA28B62755BA}
+	EndGlobalSection
+EndGlobal
