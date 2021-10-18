@@ -31,9 +31,9 @@ Prueba Clean Code - Masivian
 #URL
 1. POST http://localhost:5000/api/roulette  create roulette
 2. GET http://localhost:5000/api/roulette   List Roulettes
-3. POST http://localhost:5000/api/open/{{rouletteId:Guid}}/open open roulette
-4. POST http://localhost:5000/api/bet/{Open/bet/  create bet
-5. GET http://localhost:5000/api/bet/Close/{rouletteId:Guid}  close 
+3. POST http://localhost:5000/api/open/{{rouletteId:Guid}}/ open roulette
+4. POST http://localhost:5000/api/bet/  create bet
+5. GET http://localhost:5000/api/bet/Close/{{rouletteId:Guid}}  close 
 
 #Language development
 
